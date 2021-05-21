@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m @jplopezmolinari
-- 👀 I’m interested in Frontedn Languajes and frameworks
+- 👀 I’m interested in Frontend Languajes and frameworks
 - 🌱 I’m currently learning JS
 - 💬 Ask me about Growth Marketing
 - 📫 How to reach me juanpablo@curselo.com is my email
