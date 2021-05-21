@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m @jplopezmolinari
-👀 I’m interested in Frontedn Languajes and frameworks
-🌱 I’m currently learning JS
-💬 Ask me about Growth Marketing
-📫 How to reach me.. jplopezmolinari@gmail.com is my email
+- 👋 Hi, I’m @jplopezmolinari
+- 👀 I’m interested in Frontedn Languajes and frameworks
+- 🌱 I’m currently learning JS
+- 💬 Ask me about Growth Marketing
+- 📫 How to reach me juanpablo@curselo.com is my email
 
 **Si quieres saber un poco más sobre mi:**
 Puedo ayudarte a hacer crecer tu empresa en el mundo digital. 
