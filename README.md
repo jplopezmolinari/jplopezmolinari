@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m @jplopezmolinari
+👀 I’m interested in Frontedn Languajes and frameworks
+🌱 I’m currently learning JS
+💬 Ask me about Growth Marketing
+📫 How to reach me.. jplopezmolinari@gmail.com is my email
+
+**Si quieres saber un poco más sobre mi:**
+Puedo ayudarte a hacer crecer tu empresa en el mundo digital. 
+
+Soy especialista en Growth Marketing. ¿Qué es el growth marketing? Se trata de una técnica que permite optimizar el "proceso de venta" online y lograr un incremento sostenidos de la cantidad de clientes e ingresos de la empresa.
+
+Desde hace 20 años soy un gran apasionado de la tecnología y los negocios digitales, he creado mis propias Startups y transitado el camino del Emprendedor desde una idea hasta crear negocios rentables. También he trabajado como consultor en distintos emprendimientos ayudándolos en el desarrollo de una estrategia de ventas online que genere resultados. 
+
+Como Growth Marketer siempre estoy buscando la forma de optimizar y generar mejores resultados para mis emprendimientos y mis clientes.
+
+Desde Curselo ayudamos a miles de creadores de contenido a crear un negocio de cursos exitoso. 
+
+No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
