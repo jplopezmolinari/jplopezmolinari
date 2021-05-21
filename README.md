@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me juanpablo@curselo.com is my email
 
 **Si quieres saber un poco más sobre mi:**
+
 Puedo ayudarte a hacer crecer tu empresa en el mundo digital. 
 
 Soy especialista en Growth Marketing. ¿Qué es el growth marketing? Se trata de una técnica que permite optimizar el "proceso de venta" online y lograr un incremento sostenidos de la cantidad de clientes e ingresos de la empresa.
