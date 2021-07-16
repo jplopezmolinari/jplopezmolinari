@@ -33,3 +33,11 @@ Como Growth Marketer siempre estoy buscando la forma de optimizar y generar mejo
 Desde Curselo ayudamos a miles de creadores de contenido a crear un negocio de cursos exitoso. 
 
 No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
+
+Redes:
+✨ Twitter: https://twitter.com/jplopezmolinari
+✨ Instagram: https://instagram.com/jplopezmolinari
+✨ LinkedIn: https://www.linkedin.com/in/jplopezmolinari/
+✨ Blog: https://growthmarketing.com.ar/
+
+
