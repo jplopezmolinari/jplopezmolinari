@@ -34,7 +34,10 @@ Desde Curselo ayudamos a miles de creadores de contenido a crear un negocio de c
 
 No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
 
+
+
 Redes:
+
 ✨ Twitter: https://twitter.com/jplopezmolinari
 
 ✨ Instagram: https://instagram.com/jplopezmolinari
