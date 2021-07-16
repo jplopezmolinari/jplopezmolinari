@@ -36,8 +36,11 @@ No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
 
 Redes:
 ✨ Twitter: https://twitter.com/jplopezmolinari
+
 ✨ Instagram: https://instagram.com/jplopezmolinari
+
 ✨ LinkedIn: https://www.linkedin.com/in/jplopezmolinari/
+
 ✨ Blog: https://growthmarketing.com.ar/
 
 
