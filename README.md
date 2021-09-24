@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m @jplopezmolinari
+
 - 👀 I’m interested in Frontend Languajes and frameworks
-- 🌱 I’m currently learning JS
+- 🌱 Technologies:
+    - Frontend: CSS, HTML5 and JavaScript, React.
+    - Backend: NodeJS, ExpressJS, Middleware.
+    - Database: MySQL, Postgres, SQLite.
+
 - 💬 Ask me about Growth Marketing
 - 📫 How to reach me juanpablo@curselo.com is my email
+
 
 **Si quieres saber un poco más sobre mi:**
 
@@ -45,6 +51,7 @@ Redes:
 ✨ LinkedIn: https://www.linkedin.com/in/jplopezmolinari/
 
 ✨ Blog: https://growthmarketing.com.ar/
+
 
 
 
