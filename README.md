@@ -48,5 +48,4 @@ Redes:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplopezmolinari)](https://github.com/jplopezmolinari/github-readme-stats)
-
+[![Juan Pablo Lopez Molinari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplopezmolinari&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/jplopezmolinari/github-readme-stats)
