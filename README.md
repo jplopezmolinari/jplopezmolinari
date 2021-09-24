@@ -47,3 +47,6 @@ Redes:
 ✨ Blog: https://growthmarketing.com.ar/
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplopezmolinari)](https://github.com/jplopezmolinari/github-readme-stats)
+
