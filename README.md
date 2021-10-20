@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀  I’m interested in Frontend Languajes and frameworks JavaScript, Rect Js.
+- 👀  I’m interested in Frontend projects.
 - 🌱  Full Stack Developer from Plataforma 5 Bootcamp.
     - Technologies (MERN / PERN):
         -  Frontend: CSS | HTML5 | JavaScript | React.
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 💬  Ask me about Growth Marketing & UX/UI.
 
 - 🤔  I’m looking to collaborate on freelance projects.
+
+
 - 📫  How to reach me jplopezmolinari@gmail.com is my email
 
 <!--
