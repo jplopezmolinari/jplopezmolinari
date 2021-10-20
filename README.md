@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 - 👀  I’m interested in Frontend Languajes and frameworks JavaScript, Rect Js.
 - 🌱  Full Stack Developer from Plataforma 5 Bootcamp.
--- Technologies (MERN / PERN):
+- - Technologies (MERN / PERN):
     - Frontend: CSS | HTML5 | JavaScript | React.
     - Backend: NodeJS | ExpressJS | Middleware.
     - Database: MySQL | Postgres | SQLite | Mongo DB | Mongoose.
 - 💬  Ask me about Growth Marketing & UX/UI.
 
 - 🤔  I’m looking to collaborate on freelance projects.
-- 📫  How to reach me juanpablo@curselo.com is my email
+- 📫  How to reach me jplopezmolinari@gmail.com is my email
 
 <!--
 
