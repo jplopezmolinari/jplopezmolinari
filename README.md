@@ -69,7 +69,7 @@ No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
 
 
-[website]: https://growthmarketing.com.ar/?_blank
+[website]: (https://growthmarketing.com.ar/) {: target = "_ blank"} 
 [linkedin]: https://www.linkedin.com/in/jplopezmolinari
 [email]: mailto:jplopezmolinari@gmail.com
 
