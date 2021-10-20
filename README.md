@@ -70,8 +70,8 @@ No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
 
 
 [website]: (https://growthmarketing.com.ar/) {: target = "_ blank"} 
-[linkedin]: https://www.linkedin.com/in/jplopezmolinari
-[email]: mailto:jplopezmolinari@gmail.com
+[linkedin]: (https://www.linkedin.com/in/jplopezmolinari)
+[email]: (mailto:jplopezmolinari@gmail.com)
 
 <!--
 [![Juan Pablo Lopez Molinari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplopezmolinari&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/jplopezmolinari/github-readme-stats)
