@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👀  I’m interested in Frontend projects.
 - 🌱  Full Stack Developer from Plataforma 5 Bootcamp.
     - Technologies (MERN / PERN):
-        -  Frontend: CSS | HTML5 | JavaScript | React.
+        - Frontend: CSS | HTML5 | JavaScript | React.
         - Backend: NodeJS | ExpressJS | Middleware.
         - Database: MySQL | Postgres | SQLite | Mongo DB | Mongoose.
 - 💬  Ask me about Growth Marketing & UX/UI.
@@ -57,10 +57,12 @@ No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) 
 
+<!--
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=F05032)
+-->
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
