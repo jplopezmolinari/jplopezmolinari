@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 - 👀  I’m interested in Frontend projects.
 - 🌱  Full Stack Developer from Plataforma 5 Bootcamp.
-    - Technologies (MERN / PERN):
-        - Frontend: CSS | HTML5 | JavaScript | React.
-        - Backend: NodeJS | ExpressJS | Middleware.
-        - Database: MySQL | Postgres | SQLite | Mongo DB | Mongoose.
+    - Frontend: CSS | HTML5 | JavaScript | React.
+    - Backend: NodeJS | ExpressJS | Middleware.
+    - Database: MySQL | Postgres | SQLite | Mongo DB | Mongoose.
 - 💬  Ask me about Growth Marketing & UX/UI.
 
 - 🤔  I’m looking to collaborate on freelance projects.
