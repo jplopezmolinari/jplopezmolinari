@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan Pablo [@jplopezmolinari]
 
 <!--
 **jplopezmolinari/jplopezmolinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @jplopezmolinari
+- 👀  I’m interested in Frontend Languajes and frameworks JavaScript, Rect Js.
+- 🌱  Full Stack Developer from Plataforma 5 Bootcamp.
+-- Technologies (MERN / PERN):
+    - Frontend: CSS | HTML5 | JavaScript | React.
+    - Backend: NodeJS | ExpressJS | Middleware.
+    - Database: MySQL | Postgres | SQLite | Mongo DB | Mongoose.
+- 💬  Ask me about Growth Marketing & UX/UI.
 
-- 👀 I’m interested in Frontend Languajes and frameworks
-- 🌱 Technologies:
-    - Frontend: CSS, HTML5 and JavaScript, React.
-    - Backend: NodeJS, ExpressJS, Middleware.
-    - Database: MySQL, Postgres, SQLite.
+- 🤔  I’m looking to collaborate on freelance projects.
+- 📫  How to reach me juanpablo@curselo.com is my email
 
-- 💬 Ask me about Growth Marketing
-- 📫 How to reach me juanpablo@curselo.com is my email
-
+<!--
 
 **Si quieres saber un poco más sobre mi:**
 
@@ -39,14 +40,11 @@ Como Growth Marketer siempre estoy buscando la forma de optimizar y generar mejo
 Desde Curselo ayudamos a miles de creadores de contenido a crear un negocio de cursos exitoso. 
 
 No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
+-->
 
 
 
 Redes:
-
-✨ Twitter: https://twitter.com/jplopezmolinari
-
-✨ Instagram: https://instagram.com/jplopezmolinari
 
 ✨ LinkedIn: https://www.linkedin.com/in/jplopezmolinari/
 
@@ -54,5 +52,6 @@ Redes:
 
 
 
-
+<!--
 [![Juan Pablo Lopez Molinari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplopezmolinari&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/jplopezmolinari/github-readme-stats)
+-->
