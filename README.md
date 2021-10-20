@@ -46,6 +46,10 @@ No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=Postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) 
