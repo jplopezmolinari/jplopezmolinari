@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀  I’m interested in Frontend projects.
+- 👀  I’m interested in 'Product Management' & Growth projects.
 - 🌱  Full Stack Developer from Plataforma 5 Bootcamp.
     - Frontend: CSS | HTML5 | JavaScript | React.
     - Backend: NodeJS | ExpressJS | Middleware.
     - Database: MySQL | Postgres | SQLite | Mongo DB | Mongoose.
-- 💬  Ask me about Growth Marketing & UX/UI.
+- 💬  Ask me about Product Management, Growth Marketing & scaling business.
 
 - 🤔  I’m looking to collaborate on freelance projects.
 
