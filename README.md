@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀  I’m interested in 'Product Management' & Growth projects.
+- 🚀 I’m a Senior Product Manager passionate about Growth, Automation & AI.
 - 🌱  Full Stack Developer from Plataforma 5 Bootcamp.
     - Frontend: CSS | HTML5 | JavaScript | React.
     - Backend: NodeJS | ExpressJS | Middleware.
     - Database: MySQL | Postgres | SQLite | Mongo DB | Mongoose.
-- 💬  Ask me about Product Management, Growth Marketing & scaling business.
 
-- 🤔  I’m looking to collaborate on freelance projects.
+📌 Since 2022, I’ve been working as Lead Product Manager at Aprende Institute, leading cross-functional teams to launch scalable learning experiences across LATAM and the US.
 
+💻 I also learned to build using no-code tools like "Windsurf", and to create advanced automations with "n8n" (integrating AI and data workflows into product operations).
 
 - 📫  How to reach me jplopezmolinari@gmail.com is my email
 
