@@ -68,14 +68,9 @@ No dudes en contactarme para lo que necesites! 👉 juanpablo@curselo.com
 -->
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
 
-
-[website]: https://growthmarketing.com.ar/ 
 [linkedin]: https://www.linkedin.com/in/jplopezmolinari
-[email]: mailto:jplopezmolinari@gmail.com
 
 <!--
 [![Juan Pablo Lopez Molinari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplopezmolinari&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/jplopezmolinari/github-readme-stats)
